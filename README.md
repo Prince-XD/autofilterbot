@@ -1,8 +1,5 @@
-
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Movie-Bot!;created+by+Dhashamoolam+Dhamu!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
-
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Movie-Bot!;created+by+Dhashamoolam+Dhamu!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </h1>
 
 
