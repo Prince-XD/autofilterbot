@@ -1,6 +1,6 @@
-<h1 align="center">
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Movie-Bot!;created+by+Dhashamoolam+Dhamu!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
-</h1>
+
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Movie-Bot!;created+by+Dhashamoolam+Dhamu!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+
 
 
 [![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
