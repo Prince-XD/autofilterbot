@@ -7,7 +7,7 @@ COPY requirements.txt /requirements.txt
 RUN git clone https://github.com/prince301102/autofilterbot.git
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /EvaMaria
-WORKDIR /EvaMaria
+RUN mkdir /autofilterbot
+WORKDIR /autofilterbot
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
