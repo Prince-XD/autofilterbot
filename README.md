@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
-</p>
+
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Movie-Bot!;created+by+Dhashamoolam+Dhamu!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+
 <h1 align="center">
   <b>Eva Maria Bot</b>
 </h1>
